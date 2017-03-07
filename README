@@ -1,0 +1,11 @@
+创建：
+hexo new [layout] "postName" #新建文章
+生成静态站点：
+hexo generate
+运行服务器：
+hexo server
+部署到git：
+hexo deploy
+
+
+参考：http://ezlippi.com/blog/2016/02/jekyll-to-hexo.html
