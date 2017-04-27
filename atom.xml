@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Kilolumen</title>
+  <title>DJ</title>
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://kilolumen.me/"/>
+  <link href="http://leedj.com/"/>
   <updated>2016-11-01T06:41:31.000Z</updated>
-  <id>http://kilolumen.me/</id>
+  <id>http://leedj.com/</id>
   
   <author>
     <name>DJ</name>
