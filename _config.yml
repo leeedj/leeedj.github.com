@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Kilolumen
+title: DJ
 subtitle:
 description: DJ
 author: DJ
@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://kilolumen.me
+url: http://www.leedj.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -70,7 +70,7 @@ stylus:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:git
-  repo:git@github.com:kilolumen/kilolumen.github.com.git
+  repo:git@github.com:leeedj/leeedj.github.com.git
   branch:master
 
 #Search
